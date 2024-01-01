@@ -1,6 +1,6 @@
 return {
-    "craftzdog/solarized-osaka.nvim",
+    "catppuccin/nvim",
     config = function()
-        vim.cmd.colorscheme("solarized-osaka")
+        vim.cmd.colorscheme("catppuccin")
     end,
 }
